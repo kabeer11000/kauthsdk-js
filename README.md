@@ -13,4 +13,9 @@ kauth.go();
 kauth.render(/*Height*/ '3rem', /*Width*/ 'auto', 'dark');
 //To Render Button
 ```
+
+For UMD Modules
+```
+import {KAuth} from 'path/to/kauthsdk.js';
+```
 Register Your Javascript SDK to get SDK id [HERE](http://auth.kabeersnetwork.rf.gd/js-sdk/)
