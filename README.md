@@ -10,7 +10,7 @@ kauth.go();
 //To Imediatly Redirect
 
 
-kauth.render(/*Height*/ '3rem', /*Width*/ 'auto', 'dark');
+kauth.render(/*Container Element*/ document.querySelector('div'), /*Height*/ '3rem', /*Width*/ 'auto', 'dark');
 //To Render Button
 ```
 
