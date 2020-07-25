@@ -1,5 +1,7 @@
 ## Kabeers Authorization SDK for JavaScript
 
+#Outdated! and Unmaintained Visit (https://github.com/kauthsdk2.js)[KauthSDK JS 2]
+
 Include This SDK to send Requests to Kabeers Network Account API.
 ```
 let sdk_id = '';
