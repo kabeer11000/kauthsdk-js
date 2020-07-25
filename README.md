@@ -1,7 +1,7 @@
 ## Kabeers Authorization SDK for JavaScript
 
 
-# ! Outdated! and Unmaintained Get [K AuthSDK JS 2.0](https://github.com/kauthsdk2.js) for newer version
+! Outdated! and Unmaintained Get [K AuthSDK JS 2.0](https://github.com/kauthsdk2.js) for newer version
 
 Include This SDK to send Requests to Kabeers Network Account API.
 ```
